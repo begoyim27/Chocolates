@@ -35,13 +35,4 @@ Product Leader: "Milk Bars" and "Organic Choco Syrup" are the highest revenue co
 
 Top Performer: Karlen McCaffrey shows the highest shipment volume and ranking according to the performance metrics.
 
-How to Use
-Clone this repository:
-
-Bash
-git clone https://github.com/yourusername/chocolate-sales-dashboard.git
-Open the source file (e.g., .pbix or .xlsx) using the respective software.
-
-Interact with the filters to explore specific data points.
-
 Developed with ❤️ by Begoyim
